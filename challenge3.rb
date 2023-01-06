@@ -1,5 +1,5 @@
-# Create an array of strings and **return** only words that begin with t.
-# Create array, use each to filter words using chr method, shovel into new array and return it.
+# Overall Goal: Create an array of strings and **return** only words that begin with t.
+# Psuedocode: Create array, use each to filter words using chr method, shovel into new array and return it.
 
 # Final Solution
 words = ["toggle", "follow", "grand", "trip", "rat"]
